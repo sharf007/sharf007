@@ -28,11 +28,6 @@ I'm a passionate **Data Scientist** and **Machine Learning enthusiast** with a f
   ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat&logo=machine-learning)
   ![AI](https://img.shields.io/badge/-AI-black?style=flat&logo=artificial-intelligence)
 
-## 📈 GitHub Stats
-
-![Sharf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharf007&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharf007&layout=compact&theme=radical)
 
 ---
 
@@ -45,7 +40,9 @@ I'm a passionate **Data Scientist** and **Machine Learning enthusiast** with a f
 ## 📫 How to reach me
 
 - **Email**: [datasharf@gmail.com](mailto:datasharf@gmail.com)
-- **LinkedIn**: [Muhammad Sharfuddeen LinkedIn](#) *(Add your LinkedIn URL)*
+- **LinkedIn**: [Muhammad Sharfuddeen LinkedIn](#) *(www.linkedin.com/in/
+muhammadsharfuddeen
+)*
 
 ---
 
