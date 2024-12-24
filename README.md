@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sharf 👋
 
-<!--
-**sharf007/sharf007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist and Machine Learning enthusiast with a passion for using data to solve real-world problems. I specialize in health insurance analytics, data cleaning, and building models with Python.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [Health Insurance Premiums Optimization](https://github.com/sharf007/health-insurance-analytics): Analyzing factors affecting health insurance premiums to improve pricing strategies using data analytics.
+- [Your Other Projects Here](#): Description of any other project you want to highlight.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Languages**: Python, SQL
+- **Tools**: Jupyter, Visual Studio Code, Git, GitHub
+- **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras
+- **Technologies**: Data Analytics, Machine Learning, AI, Data Visualization
+
+## 📈 Stats
+![Sharf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharf007&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 📫 Contact
+- Email: [datasharf@gmail.com](mailto:datasharf@gmail.com)
+- LinkedIn: [Sharf's LinkedIn](#) *(Add your LinkedIn URL)*
+
+Feel free to check out my repositories and reach out if you're interested in collaborating on a project!
+
+---
+
+Thank you for visiting my profile! 🚀
