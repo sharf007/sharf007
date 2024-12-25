@@ -7,7 +7,7 @@ I'm a passionate **Data Scientist** and **Machine Learning enthusiast** with a f
 ## 🚀 Projects
 
 - [Health Insurance Premiums Optimization](https://github.com/sharf007/health-insurance-analytics): A data-driven approach to understanding health insurance premiums, focusing on age, BMI, and lifestyle factors.
-- [Other Projects](#): Description of other projects or repositories.
+- [Heart Failure Prediction with Keras](https://github.com/sharf007/heart-failure-prediction): A machine learning project using neural networks to predict heart failure based on clinical data.
 
 ## 🛠️ Technologies & Tools
 
@@ -28,21 +28,18 @@ I'm a passionate **Data Scientist** and **Machine Learning enthusiast** with a f
   ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat&logo=machine-learning)
   ![AI](https://img.shields.io/badge/-AI-black?style=flat&logo=artificial-intelligence)
 
-
 ---
 
 ## 💡 Fun Facts
 
 - 🌱 I’m currently diving deep into **Deep Learning** and **AI** to further improve my expertise.
-- 💬 Ask me about **data science**, **machine learning**, or **anything tech-related**!
+- 💬 Ask me about **data science**, **machine learning**, **health insurance analytics**, or **anything tech-related**!
 - 📍 Currently based in **[Your Location]** *(Optional)*.
 
 ## 📫 How to reach me
 
 - **Email**: [datasharf@gmail.com](mailto:datasharf@gmail.com)
-- **LinkedIn**: [Muhammad Sharfuddeen LinkedIn](#) *(www.linkedin.com/in/
-muhammadsharfuddeen
-)*
+- **LinkedIn**: [Muhammad Sharfuddeen LinkedIn](#) *(www.linkedin.com/in/muhammadsharfuddeen)*
 
 ---
 
