@@ -43,13 +43,6 @@ I'm a passionate **Data Scientist** and **Machine Learning enthusiast** with a f
 
 ---
 
-## 🎨 My Favorite Animated GIFs:
-
-![ML GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVhYzZkNzljMTk4NzEwZjZmZDkxZTM3NzU0Njk4ZDEwZjhhZDI5NzYzYWE3MGZiNzY5YWE4Yjk4d2yFK9El6VbRDKELD7J64fI/giphy.gif)
-*Fun fact: This animation shows a classic machine learning neural network training!*
-
----
-
 ## 🤝 Let's Connect!
 Feel free to follow me on GitHub and check out my repositories! 
 
