@@ -34,7 +34,7 @@ I'm a passionate **Data Scientist** and **Machine Learning enthusiast** with a f
 
 - 🌱 I’m currently diving deep into **Deep Learning** and **AI** to further improve my expertise.
 - 💬 Ask me about **data science**, **machine learning**, **health insurance analytics**, or **anything tech-related**!
-- 📍 Currently based in **[Your Location]** *(Optional)*.
+
 
 ## 📫 How to reach me
 
