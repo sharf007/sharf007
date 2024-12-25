@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Sharfuddeen 👋 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sharf007.sharf007)
 
-I'm a passionate **Data Scientist** and **Machine Learning enthusiast** with a focus on **Health Insurance Analytics**. I specialize in leveraging data to create actionable insights, build predictive models, and improve business strategies. 
+Computer Science graduate specializing in Data Science, using data analysis to solve real-world problems and drive data-driven decisions for business growth.
 
 ✨ **Currently diving into AI, Deep Learning, and Data Analytics to make smarter decisions in the Health Insurance sector.** ✨
 
